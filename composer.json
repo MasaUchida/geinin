@@ -1,0 +1,12 @@
+{
+    "name": "uchitamasatoshi/original",
+    "authors": [
+        {
+            "name": "Masatoshi Uchida",
+            "email": "uchidamasa.design@gmail.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "^1.2"
+    }
+}
